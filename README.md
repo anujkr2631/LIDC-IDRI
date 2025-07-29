@@ -6,7 +6,7 @@ This repository hosts the prepared and organized version of the **LIDC-IDRI** da
 ## 📂 Dataset Contents
 
 - DICOM scans of lung CTs
-- Preprocessed image volumes (if any)
+- Preprocessed image volumes
 - Metadata files (annotations, labels, etc.)
 
 ---
