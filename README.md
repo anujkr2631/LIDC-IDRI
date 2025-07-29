@@ -1,7 +1,6 @@
-## LIDC-IDRI Dataset
 
-> **Forked from** [VinayakRai5/LIDC-IDRI-Segmentation](https://github.com/VinayakRai5/LIDC-IDRI-Segmentation.git)
+## 📦 LIDC-IDRI Dataset
 
-> Further modifications and improvements by [anujkr2631](https://github.com/anujkr2631)
+This project is based on the LIDC-IDRI dataset for lung nodule segmentation.
 
-> Further continuation of segmentation can be found [here](https://github.com/anujkr2631/LIDC-IDRI-Segmentation)
+🔁 Continued segmentation work can be found [here](https://github.com/anujkr2631/Lung-Nodule-Segmentation)
